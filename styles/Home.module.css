@@ -9,7 +9,7 @@
 }
 
 .main {
-  padding: 5rem 0;
+  padding: 0;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -45,9 +45,9 @@
 }
 
 .title {
-  margin: 0;
+  margin-bottom: 4;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .title,
@@ -113,6 +113,61 @@
   margin-left: 0.5rem;
 }
 
+.btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn_aufgaben {
+  background-color: rgba(0, 118, 255, 0.9);
+  border: 1px solid rgba(0, 118, 255, 0.9);
+  color: #fff;
+  font-weight: 400;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn_aufgaben:hover {
+  background-color: #fff;
+  border: 1px solid rgba(0, 118, 255, 0.9);
+  color: rgba(0, 118, 255, 0.9);
+}
+
+.btn_home {
+  align-items: center;
+  background-color: rgba(194, 0, 0, 0.897);
+  border: 1px solid rgba(194, 0, 0, 0.897);
+  color: #fff;
+  font-weight: 400;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn_home:hover {
+  background-color: #fff;
+  border: 1px solid rgba(194, 0, 0, 0.897);
+  color: rgba(194, 0, 0, 0.897);
+}
+
+.btn_solution {
+  align-items: center;
+  background-color: rgba(2, 165, 2, 0.9);
+  border: 1px solid rgba(2, 165, 2, 0.9);
+  color: #fff;
+  font-weight: 400;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn_solution:hover {
+  background-color: #fff;
+  border: 1px solid rgba(2, 165, 2, 0.9);
+  color: rgba(2, 165, 2, 0.9);
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
