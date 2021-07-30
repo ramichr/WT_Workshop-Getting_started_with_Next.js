@@ -17,3 +17,19 @@ Dieser Workshop wendet sich an Entwickler, die den Prozess der Entwicklung von W
 
 ## Material
 
+## Übungen
+
+***
+
+### Aufgabe 1
+
+***
+
+### Aufgabe 2
+
+***
+
+### Aufgabe 3
+
+***
+
