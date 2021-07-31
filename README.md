@@ -3,7 +3,7 @@
 # Getting started with Next.js
 * Präsentiert von: Rami Cheikh Rouhou
 * Dauer: 120-150 Minuten
-* Termin: Asynchronen Workshop
+* Termin: Online (Asynchronen Workshop)
 
 ## Überblick
 Diese Repository beinhaltete die Materialien für den Workshop **“Getting started with Next.js”** für den Kurs Webtechnologien im Master Medieninformatik an der TH Köln.
