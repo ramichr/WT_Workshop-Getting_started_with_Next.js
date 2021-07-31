@@ -45,20 +45,29 @@ Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Wo
 ***
 
 ### Aufgabe 1
-**Dauer:** 10-15 Minuten
+**Dauer:** 20 Minuten 
+<br>
+<br>
+In dieser Übung sollen einige der grundlegenden Funktionen von Next.js erlernt werden, wie zum Beispiel die Verwendung der Bildkomponente, Metadaten, CSS-Styling und die Layoutkomponente.
+
+1. Fügen Sie der Datei "Aufgabe1.js" eine Header mit dem Titel "Aufgabe 1" hinzu.
+2. Verwenden Sie die Erweiterung "next/image" aus next.js, um "[profile.jpg](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/public/images/profile.jpg)" zu optimieren, indem Sie die Breite und Höhe konfigurieren.
+3. Verwenden Sie die Bibliothek "styled-jsx", um den Satz "Hier ist die Aufgabe 1" zwischen dem h3-Tag zu stylen.
+4. Erstellen Sie eine Layoutkomponente, die einen bestimmten Style enthält, um die Wörter "Layout Component" und "Hompage" zu gestalten.
+5. Erstellen Sie für "Homepage" einen Link zu "index.js".
 
 * [Link zu Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/aufgabe1.js)
 * [Lösung der Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/solution_1/solution1.js)
 
 
 ### Aufgabe 2
-**Dauer:** 15-20 Minuten
+**Dauer:** 30 Minuten
 
 * [Link zu Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/aufgabe2.js)
 * [Lösung der Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/solution_2/solution2.js)
 
 ### Aufgabe 3
-**Dauer:** 20-30 Minuten
+**Dauer:** 40 Minuten
 
 * [Link zu Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_3/aufgabe3.js)
 * [Lösung der Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben/aufgabe_3/solution_3)
