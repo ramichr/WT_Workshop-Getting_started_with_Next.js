@@ -47,18 +47,18 @@ Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Wo
 ### Aufgabe 1
 **Dauer:** 10-15 Minuten
 
-[Link zu Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/aufgabe1.js)
-[Lösung der Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/solution_1/solution1.js)
+* [Link zu Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/aufgabe1.js)
+* [Lösung der Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/solution_1/solution1.js)
 
 
 ### Aufgabe 2
 **Dauer:** 15-20 Minuten
 
-[Link zu Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/aufgabe2.js)
-[Lösung der Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/solution_2/solution2.js)
+* [Link zu Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/aufgabe2.js)
+* [Lösung der Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/solution_2/solution2.js)
 
 ### Aufgabe 3
 **Dauer:** 20-30 Minuten
 
-[Link zu Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_3/aufgabe3.js)
-[Lösung der Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben/aufgabe_3/solution_3)
+* [Link zu Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_3/aufgabe3.js)
+* [Lösung der Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben/aufgabe_3/solution_3)
