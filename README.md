@@ -1,4 +1,4 @@
-![nextjs](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/next.jpg)
+![nextjs](https://res.cloudinary.com/practicaldev/image/fetch/s--JszVhDtd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd3omc5vp71r5k9z69b4.png)
 
 # Getting started with Next.js
 * Präsentiert von: Rami Cheikh Rouhou
