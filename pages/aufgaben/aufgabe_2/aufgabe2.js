@@ -1,5 +1,9 @@
 import styles from '../../../styles/Home.module.css'
 import Link from 'next/link'
+import Layout from '../../../components/layout'
+
+/* Write code here */
+
 
 export default function Aufgabe2() {
     return (
@@ -10,7 +14,14 @@ export default function Aufgabe2() {
             <br></br>
 
             {/* pre-rendering and data fetching (getStaticProps) */}
-
+            <Layout>
+                <section>
+                    <h2>Users list</h2>
+                    <ul>
+                        {/* Write code here */}
+                    </ul>
+                </section>
+            </Layout>
 
             <br></br>
             <br></br>

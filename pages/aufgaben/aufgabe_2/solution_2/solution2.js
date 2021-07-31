@@ -24,7 +24,7 @@ export default function Solution2({ users }) {
             <h1 className={styles.title}>Lösung zur Aufgabe 2</h1>
             <br />
             <br />
-            <Layout home>
+            <Layout>
                 <section>
                     <h2>Users list</h2>
                     <ul>
