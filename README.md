@@ -38,6 +38,7 @@ Um das Projekt auszuführen:
 ## Material
 * [React Docs](https://reactjs.org/docs/getting-started.html)
 * [Next.js Docs](https://nextjs.org/docs/getting-started)
+* [Präsentation+Video](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/folien%2Baufzeichnung)
 
 ## Aufgaben
 Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben).
