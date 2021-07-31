@@ -33,7 +33,7 @@ JavaScript und die Grundlagen von React sollen beherrscht werden, einschließlic
 Um das Projekt auszuführen:
 * `npm install`
 * `npm run dev`
-* Dann unter http://localhost:3000/ ausführen
+* Dann unter [http://localhost:3000/](http://localhost:3000/) ausführen
 
 ## Material
 * [React Docs](https://reactjs.org/docs/getting-started.html)
@@ -48,18 +48,12 @@ Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Wo
 
 [link zu Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/aufgabe1.js)
 
-***
 
 ### Aufgabe 2
 
 [link zu Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/aufgabe2.js)
 
-***
 
 ### Aufgabe 3
 
 [link zu Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_3/aufgabe3.js)
-
-***
-
-
