@@ -11,7 +11,7 @@ export default function Home() {
       <div className={styles.btn}>
         <button className={styles.btn_aufgaben}>
           <h3>
-            <Link href="/aufgabe_1/aufgabe1">Aufgabe 1</Link>
+            <Link href="/aufgaben/aufgabe_1/aufgabe1">Aufgabe 1</Link>
           </h3>
         </button>
           
@@ -20,7 +20,7 @@ export default function Home() {
 
         <button className={styles.btn_aufgaben}>
           <h3>
-            <Link href="/aufgabe_2/aufgabe2">Aufgabe 2</Link>
+            <Link href="/aufgaben/aufgabe_2/aufgabe2">Aufgabe 2</Link>
           </h3>
         </button>
         
@@ -29,7 +29,7 @@ export default function Home() {
 
         <button className={styles.btn_aufgaben}>
         <h3>
-          <Link href="/aufgabe_3/aufgabe3">Aufgabe 3</Link>
+          <Link href="/aufgaben/aufgabe_3/aufgabe3">Aufgabe 3</Link>
         </h3>
         </button>
       </div>
