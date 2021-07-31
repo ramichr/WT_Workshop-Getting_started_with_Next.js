@@ -26,7 +26,7 @@ JavaScript und die Grundlagen von React sollen beherrscht werden, einschließlic
 * Browser ([Chrome](https://www.google.com/chrome/?brand=FHFK&gclid=Cj0KCQjw6ZOIBhDdARIsAMf8YyH6-g79x4MAExolqLsni9j48iYawMtMIaDo5UoHpoglKc21kTeRHi0aAlWkEALw_wcB&gclsrc=aw.ds), [Firefox](https://www.mozilla.org/en-US/firefox/new/), ..)
 
 ## Vorbereitung
-GitRepo zum Workshop clonen. Verwenden Sie dazu das Terminal, indem Sie Folgendes eingeben:
+[GitRepo zum Workshop](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js) clonen. Verwenden Sie dazu das Terminal, indem Sie Folgendes eingeben:
 * `git clone https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js.git`
 * `cd WT_Workshop-Getting_started_with_Next.js`
 
