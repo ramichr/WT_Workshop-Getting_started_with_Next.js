@@ -47,6 +47,7 @@ Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Wo
 ### Aufgabe 1
 
 [link zu Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/aufgabe1.js)
+
 ***
 
 ### Aufgabe 2
