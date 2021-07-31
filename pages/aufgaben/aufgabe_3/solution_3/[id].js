@@ -37,9 +37,11 @@ export default function Details ({user}) {
 
         <div>
             <h1>{user.name}</h1>
-            <p> {user.email} </p>
-            <p> {user.website} </p>
-            <p> {user.address.city} </p>
+            <p> <strong>Email: </strong>{user.email} </p>
+            <p> <strong>Website: </strong>{user.website} </p>
+            <p> <strong>Address City: </strong>{user.address.city} </p>
+            <p> <strong>Phone: </strong>{user.phone} </p>
+            <p> <strong>Company Name: </strong>{user.company.name} </p>
         </div>
         <br />
         <br />
