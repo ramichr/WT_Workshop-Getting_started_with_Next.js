@@ -33,17 +33,19 @@ JavaScript und die Grundlagen von React sollen beherrscht werden, einschließlic
 Um das Projekt auszuführen:
 * `npm install`
 * `npm run dev`
+* Dann unter http://localhost:3000/ ausführen
 
 ## Material
 * [React Docs](https://reactjs.org/docs/getting-started.html)
 * [Next.js Docs](https://nextjs.org/docs/getting-started)
 
-## Übungen
+## Aufgaben
 Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben).
 
 ***
 
 ### Aufgabe 1
+
 
 ***
 
