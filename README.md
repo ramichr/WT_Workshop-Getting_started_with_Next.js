@@ -2,7 +2,7 @@
 
 # Getting started with Next.js
 * Präsentiert von: Rami Cheikh Rouhou
-* Dauer: 120-150 Minuten
+* Dauer: 120-130 Minuten
 * Termin: Online (Asynchronen Workshop)
 
 ## Überblick
@@ -44,7 +44,7 @@ Die Aufgaben finden Sie unter [/pages/aufgaben](https://github.com/ramichr/WT_Wo
 
 ***
 
-### Aufgabe 1
+### Aufgabe 1 (Basics)
 **Dauer:** 20 Minuten 
 <br>
 <br>
@@ -58,16 +58,27 @@ In dieser Übung sollen einige der grundlegenden Funktionen von Next.js erlernt 
 
 * [Link zu Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/aufgabe1.js)
 * [Lösung der Aufgabe 1](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_1/solution_1/solution1.js)
+<br>
+<br>
 
-
-### Aufgabe 2
+### Aufgabe 2 (Data Fetching)
 **Dauer:** 30 Minuten
+<br>
+<br>
+In dieser Übung lernen Sie, wie Sie mit "getStaticProps()" Daten von einem API-Endpunkt abrufen können. Der API-Endpunkt enthält eine Liste von Benutzern, die Sie abrufen und in der Datei "Aufgabe2.js" darstellen müssen. <br>
+API Endpunkt: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
 
 * [Link zu Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/aufgabe2.js)
 * [Lösung der Aufgabe 2](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_2/solution_2/solution2.js)
+<br>
+<br>
 
-### Aufgabe 3
+### Aufgabe 3 (Dynamic Routing)
 **Dauer:** 40 Minuten
-
+<br>
+<br>
+In dieser Übung lernen Sie das dynamische Routing kennen. Verwenden Sie die in Übung 2 gerenderten Daten, um die Details eines Benutzers auf einer einzigen Seite anzuzeigen.
+<br>
+<br>
 * [Link zu Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_3/aufgabe3.js)
 * [Lösung der Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben/aufgabe_3/solution_3)
