@@ -1,0 +1,6 @@
+.container {
+  max-width: 50rem;
+  padding: 0 5rem;
+  margin: 3rem auto 6rem;
+  font-size: larger;
+}

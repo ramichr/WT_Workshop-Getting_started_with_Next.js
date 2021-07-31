@@ -9,7 +9,7 @@ export default function Aufgabe3() {
             <br></br>
             <br></br>
 
-            <p>Hier kommt Aufgabe 3 </p>
+            {/* Dynamic routes */}
 
             <br></br>
             <br></br>
@@ -17,7 +17,7 @@ export default function Aufgabe3() {
             <div className={styles.btn}>
                 <button className={styles.btn_solution}>
                     <h3>
-                        <Link href="/aufgaben/aufgabe_3/solution3">Lösung zur Aufgabe 3</Link>
+                        <Link href="/aufgaben/aufgabe_3/solution_3/solution3">Lösung zur Aufgabe 3</Link>
                     </h3>
                 </button>
 

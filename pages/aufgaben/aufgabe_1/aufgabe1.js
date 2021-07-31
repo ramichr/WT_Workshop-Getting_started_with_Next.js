@@ -9,7 +9,27 @@ export default function Aufgabe1() {
             <br></br>
             <br></br>
 
-            <p>Hier kommt Aufgabe 1 </p>
+            {/* Tasks for exercice 1: todo */}
+
+
+            {/* 1) Add a header to this page titled "Aufgabe 1" */}
+            
+            
+            {/* 2) Hier Code ersetzen */}
+            <img src="/images/profile.jpg" alt="Profile" />
+            
+
+            {/* 3) CSS styling */}
+            <h3>Hier ist die Aufgabe 1</h3>
+
+
+            {/* 4) Layout Component */}
+            Layout Component
+            Homepage
+
+
+
+            {/* ------------------------------- */}
 
             <br></br>
             <br></br>
@@ -17,7 +37,7 @@ export default function Aufgabe1() {
             <div className={styles.btn}>
                 <button className={styles.btn_solution}>
                     <h3>
-                        <Link href="/aufgaben/aufgabe_1/solution1">Lösung zur Aufgabe 1</Link>
+                        <Link href="/aufgaben/aufgabe_1/solution_1/solution1">Lösung zur Aufgabe 1</Link>
                     </h3>
                 </button>
 

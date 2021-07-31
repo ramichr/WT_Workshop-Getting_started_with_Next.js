@@ -168,6 +168,10 @@
   border: 1px solid rgba(2, 165, 2, 0.9);
   color: rgba(2, 165, 2, 0.9);
 }
+
+.link {
+  cursor: pointer;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;

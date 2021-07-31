@@ -9,7 +9,8 @@ export default function Aufgabe2() {
             <br></br>
             <br></br>
 
-            <p>Hier kommt Aufgabe 2 </p>
+            {/* pre-rendering and data fetching (getStaticProps) */}
+
 
             <br></br>
             <br></br>
@@ -17,7 +18,7 @@ export default function Aufgabe2() {
             <div className={styles.btn}>
                 <button className={styles.btn_solution}>
                     <h3>
-                        <Link href="/aufgaben/aufgabe_2/solution2">Lösung zur Aufgabe 2</Link>
+                        <Link href="/aufgaben/aufgabe_2/solution_2/solution2">Lösung zur Aufgabe 2</Link>
                     </h3>
                 </button>
 

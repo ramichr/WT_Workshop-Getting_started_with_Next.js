@@ -4,6 +4,7 @@ import Link from 'next/link'
 export default function Home() {
   return ( 
     <>
+
     <main className={styles.main}>
       <h1 className={styles.title}>Aufgaben zum Workshop Next.js</h1>
       <br></br>
