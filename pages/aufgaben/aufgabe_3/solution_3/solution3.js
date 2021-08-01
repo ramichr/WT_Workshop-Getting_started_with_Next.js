@@ -27,7 +27,7 @@ export default function Solution3({ users }) {
             <h1 className={styles.title}>Lösung zur Aufgabe 3</h1>
             <br />
             <br />
-            <Layout home>
+            <Layout>
                     <h2>Users list</h2>
                         {users.map((user) => (
                             <Link href={'/aufgaben/aufgabe_3/solution_3/' + user.id} key={user.id}>

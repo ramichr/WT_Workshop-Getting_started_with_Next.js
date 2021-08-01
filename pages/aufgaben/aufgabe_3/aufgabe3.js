@@ -1,5 +1,6 @@
 import styles from '../../../styles/Home.module.css'
 import Link from 'next/link'
+import Layout from '../../../components/layout'
 
 export default function Aufgabe3() {
     return (
@@ -10,6 +11,10 @@ export default function Aufgabe3() {
             <br></br>
 
             {/* Dynamic routes */}
+            <Layout>
+                    <h2>Users list</h2>
+                        {/* Write code here */}
+            </Layout>
 
             <br></br>
             <br></br>
