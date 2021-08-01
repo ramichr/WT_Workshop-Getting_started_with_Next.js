@@ -83,6 +83,8 @@ In dieser Übung lernen Sie das dynamische Routing kennen. Verwenden Sie die in 
 <br>
 * [Link zu Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/blob/main/pages/aufgaben/aufgabe_3/aufgabe3.js)
 * [Lösung der Aufgabe 3](https://github.com/ramichr/WT_Workshop-Getting_started_with_Next.js/tree/main/pages/aufgaben/aufgabe_3/solution_3)
+<br>
+<br>
 
 ## Deployement
 Die Aufgaben sowie auch deren Lösungen sind auch mit Vercel bereitgestellt: <br>
