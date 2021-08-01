@@ -55,6 +55,31 @@ export default function Details ({user}) {
 
                 <br></br>
                 <br></br>
+                <style jsx>{`
+                    .btn_back {
+                        background-color: gray;
+                        border: 1px solid gray;
+                        color: #fff;
+                        font-weight: 200;
+                        border-radius: 10px;
+                        cursor: pointer;
+                        transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+                    }
+                    .btn_back:hover {
+                        background-color: #fff;
+                        border: 1px solid gray;
+                        color: gray;
+                    }
+                `}</style>
+
+                <button className="btn_back">
+                    <h4>
+                        <Link href="/aufgaben/aufgabe_3/solution_3/solution3">Zurück</Link>
+                    </h4>
+                </button>
+
+                <br></br>
+                <br></br>
                 <button className={styles.btn_home}>
                     <h4>
                         <Link href="/">Zurück zur Startseite</Link>
