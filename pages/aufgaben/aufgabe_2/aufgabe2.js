@@ -2,6 +2,10 @@ import styles from '../../../styles/Home.module.css'
 import Link from 'next/link'
 import Layout from '../../../components/layout'
 
+
+                            /*------------------------ Tasks for exercice 2 -------------------------*/
+
+
 /* Write code here */
 
 
@@ -23,6 +27,8 @@ export default function Aufgabe2() {
                 </section>
             </Layout>
 
+            
+                            {/*---------------------------------------------------------------------*/}
             <br></br>
             <br></br>
             

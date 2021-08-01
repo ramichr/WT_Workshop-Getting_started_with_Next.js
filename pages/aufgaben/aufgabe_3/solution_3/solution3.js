@@ -3,9 +3,11 @@ import styles from '../../../../styles/Home.module.css'
 import Link from 'next/link'
 import Layout from '../../../../components/layout'
 
-/* Solution for Exercice 3 */
+/* ---------------- Solution for Exercice 3 ------------------------------*/
 
-/* ---------------------------------------------------------------------- */
+
+/* Note: The file './[id].js' is also part of the solution */
+
 
 export async function getStaticProps() {
     const res  = await fetch('https://jsonplaceholder.typicode.com/users');

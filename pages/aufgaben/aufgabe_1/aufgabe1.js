@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import styles from '../../../styles/Home.module.css'
 import Link from 'next/link'
 
@@ -9,7 +10,7 @@ export default function Aufgabe1() {
             <br></br>
             <br></br>
 
-            {/* Tasks for exercice 1: todo */}
+            {/*------------------------ Tasks for exercice 1 ---------------------*/}
 
 
             {/* 1) Add a header to this page titled "Aufgabe 1" */}
@@ -29,7 +30,7 @@ export default function Aufgabe1() {
 
 
 
-            {/* ------------------------------- */}
+            {/* ------------------------------------------------------------- */}
 
             <br></br>
             <br></br>

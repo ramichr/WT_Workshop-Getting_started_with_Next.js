@@ -13,14 +13,14 @@ export default function Solution1() {
             <br></br>
             <br></br>
             
-            {/* Solutions to exercice 1 */}
+            {/* ----------------------Solutions to exercice 1------------------------- */}
 
-            {/* 1) next/head */}
+            {/* 1) Metadata:  next/head */}
             <Head>
                 <title>Aufgabe 1</title>
             </Head>
 
-            {/* 2) next/image */}
+            {/* 2) Image optimization:  next/image */}
             <Image
                 src="/images/profile.jpg" // 
                 height={300} // 
@@ -39,7 +39,8 @@ export default function Solution1() {
                 `}</style>
             </div>
             
-            {/*  4) Layout Component */}
+            {/*  4) Layout Component  */}
+            {/* Note: The file '/components/layout.js' and  '/components/layout.module.css' are also part of the solution */}
             <Layout>
                 <h1>Layout Component</h1>
                 <h2>
@@ -51,7 +52,9 @@ export default function Solution1() {
             </Layout>
 
 
-            {/* ------------------------------------- */}
+            {/* ------------------------------------------------------------- */}
+            
+            
             <br></br>
             <br></br>
 

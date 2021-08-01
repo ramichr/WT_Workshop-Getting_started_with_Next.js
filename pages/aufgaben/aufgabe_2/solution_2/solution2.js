@@ -2,9 +2,7 @@ import styles from '../../../../styles/Home.module.css'
 import Link from 'next/link'
 import Layout from '../../../../components/layout'
 
-/* Solution for Exercice 3 */
-
-/* ---------------------------------------------------------------------- */
+                   /* ---------------------Solutions for Exercice 2------------------------- */
 
 export async function getStaticProps() {
     const res  = await fetch('https://jsonplaceholder.typicode.com/users');
@@ -41,7 +39,7 @@ export default function Solution2({ users }) {
                 </section>
             </Layout>
 
-{/* ---------------------------------------------------------------------- */}
+                   {/* ---------------------------------------------------------------------- */}
 
             <div className={styles.btn}>
                 <button className={styles.btn_aufgaben}>
