@@ -88,4 +88,4 @@ In dieser Übung lernen Sie das dynamische Routing kennen. Verwenden Sie die in 
 
 ## Deployement
 Die Aufgaben sowie auch deren Lösungen sind auch mit Vercel bereitgestellt: <br>
-**Link: [https://wt-workshop-getting-started-with-next-js-nipabz1tl-ramichr.vercel.app/](https://wt-workshop-getting-started-with-next-js-nipabz1tl-ramichr.vercel.app/)**
+**Link: [https://wt-workshop-getting-started-with-next-js-a6vzlhe53-ramichr.vercel.app/](https://wt-workshop-getting-started-with-next-js-a6vzlhe53-ramichr.vercel.app/)**
